@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/menu_android"
+        android:title="Android"
+        android:icon="@mipmap/ic_android_black"
+        android:showAsAction="ifRoom">
+  </item>
+  <item android:id="@+id/menu_backup"
+        android:title="BackUp"
+        android:icon="@mipmap/ic_backup_black"
+        android:showAsAction="ifRoom">
+  </item>
+  <item android:id="@+id/menu_volume"
+        android:title="Volume"
+        android:icon="@mipmap/ic_volume_up_black"
+        android:showAsAction="ifRoom">
+  </item>
+  <item android:id="@+id/menu_preferences"
+        android:title="Preferences"
+        android:showAsAction="never">
+  </item>
+</menu>
