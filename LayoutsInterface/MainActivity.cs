@@ -14,7 +14,7 @@ namespace LayoutsInterface
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.main);
-
+     
             Button buttonToLinearLayout = FindViewById<Button>(Resource.Id.button_to_linear_layout);
             Button buttonToRelativeLayout = FindViewById<Button>(Resource.Id.button_to_relative_layout);
             Button buttonToTableLayout = FindViewById<Button>(Resource.Id.button_to_table_layout);
