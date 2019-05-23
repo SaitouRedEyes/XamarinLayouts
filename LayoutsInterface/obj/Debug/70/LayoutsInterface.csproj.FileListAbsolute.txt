@@ -1,2 +1,0 @@
-C:\Users\zeca_\OneDrive\Área de Trabalho\XamarinProjects\XamarinLayouts\LayoutsInterface\obj\Debug\70\MonoAndroid,Version=v7.0.AssemblyAttributes.cs
-C:\Users\zeca_\OneDrive\Área de Trabalho\XamarinProjects\XamarinLayouts\LayoutsInterface\obj\Debug\70\LayoutsInterface.nuget.stamp
