@@ -4,15 +4,18 @@
     android:layout_height="match_parent">
     <TextView
         android:id="@+id/label"
+        android:textSize="16pt"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Type here:" />
     <EditText
         android:id="@+id/entry"
+        android:hint="EMAIL!!!!"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:background="@android:drawable/editbox_background"
-        android:layout_below="@id/label" />
+        android:layout_below="@id/label" 
+        android:inputType="text"/>
     <Button
         android:id="@+id/ok"
         android:layout_width="wrap_content"

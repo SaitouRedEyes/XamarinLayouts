@@ -5,6 +5,11 @@
     android:stretchColumns="1">
     <TableRow>
         <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            xmlns="http://schemas.android.com/apk/res/android"
+            android:id="@+id/textView1" />
+        <TextView
             android:layout_column="1"
             android:text="Open..."
             android:padding="3dip" />
@@ -15,6 +20,11 @@
     </TableRow>
     <TableRow>
         <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            xmlns="http://schemas.android.com/apk/res/android"
+            android:id="@+id/textView2" />
+        <TextView
             android:layout_column="1"
             android:text="Save..."
             android:padding="3dip" />
@@ -24,6 +34,11 @@
             android:padding="3dip" />
     </TableRow>
     <TableRow>
+        <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            xmlns="http://schemas.android.com/apk/res/android"
+            android:id="@+id/textView3" />
         <TextView
             android:layout_column="1"
             android:text="Save As..."
@@ -43,6 +58,11 @@
         <TextView
             android:text="Import..."
             android:padding="3dip" />
+        <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            xmlns="http://schemas.android.com/apk/res/android"
+            android:id="@+id/textView4" />
     </TableRow>
     <TableRow>
         <TextView
@@ -61,8 +81,18 @@
         android:background="#FF909090" />
     <TableRow>
         <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            xmlns="http://schemas.android.com/apk/res/android"
+            android:id="@+id/textView5" />
+        <TextView
             android:layout_column="1"
             android:text="Quit"
             android:padding="3dip" />
+        <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            xmlns="http://schemas.android.com/apk/res/android"
+            android:id="@+id/textView6" />
     </TableRow>
 </TableLayout>
